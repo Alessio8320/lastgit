@@ -1,2 +1,6 @@
 primo file su master
+<<<<<<< HEAD
 seconda riga modificata su branch test
+=======
+seconda riga modificata su branch test2
+>>>>>>> test2
